@@ -6,7 +6,7 @@ pymongo==4.10.1
 dotenv==0.9.9
 pyjwt==2.9.0
 opencv-python==4.11.0.86
-numpy==1.24.3
+numpy
 ultralytics
 torch
 torchvision
