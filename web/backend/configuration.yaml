@@ -1,0 +1,3 @@
+model:
+  name: yolov11
+  path: "C:/Users/mejdl/Desktop/University/PFE/Train-and-Deploy-YOLO-Models-main/runs/detect/train20/weights/best.pt"
