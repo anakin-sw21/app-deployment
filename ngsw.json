@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1750660894910,
+  "timestamp": 1750661496161,
   "index": "/app-deployment/index.html",
   "assetGroups": [
     {
@@ -132,7 +132,7 @@
   "dataGroups": [],
   "hashTable": {
     "/app-deployment/address.459784c1cbed5869.png": "cad300455cadd8b26b6bf70db6ac8dc0a07b699c",
-    "/app-deployment/assets/css/Yanone Kaffeesatz.css": "de7c47b005441df0fbb4c0a6485078789fa916f2",
+    "/app-deployment/assets/css/Yanone Kaffeesatz.css": "78e762d2765b2ea20749cec38eda2622e656d2ab",
     "/app-deployment/assets/css/bootstrap.min.css": "3a7dfd4d71ae343e2fcffd32745f575f4f9126a0",
     "/app-deployment/assets/css/font-awesome.min.css": "bccf60ed7cf9c6feac1adb4c5fb9afd56e2a635b",
     "/app-deployment/assets/css/owl.carousel.min.css": "cf0e6365bb252e7437317f7d0a1d5e49f174b5bb",
