@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1750660199674,
+  "timestamp": 1750660894910,
   "index": "/app-deployment/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/app-deployment/index.html",
-        "/app-deployment/main.3317d165e4caf7ad.js",
+        "/app-deployment/main.cdcc649e77fe6947.js",
         "/app-deployment/manifest.webmanifest",
         "/app-deployment/polyfills.6bf4b5f23e4281ac.js",
         "/app-deployment/runtime.3d7c239c7db2d6c6.js",
@@ -29,6 +29,7 @@
         "ignoreVary": true
       },
       "urls": [
+        "/app-deployment/address.459784c1cbed5869.png",
         "/app-deployment/assets/css/Yanone Kaffeesatz.css",
         "/app-deployment/assets/css/bootstrap.min.css",
         "/app-deployment/assets/css/font-awesome.min.css",
@@ -113,14 +114,24 @@
         "/app-deployment/assets/js/main.js",
         "/app-deployment/assets/js/popper.min.js",
         "/app-deployment/assets/js/prototype.js",
+        "/app-deployment/bg-crimescene.a1bae9b38de8b86c.png",
+        "/app-deployment/email.0291a4c897fafbc0.png",
         "/app-deployment/favicon.png",
-        "/app-deployment/icomoon.32a0144183a652ee.ttf"
+        "/app-deployment/footer.e14710bb215889f0.jpg",
+        "/app-deployment/footer_stripes.7dae03830b5f554a.png",
+        "/app-deployment/icomoon.32a0144183a652ee.ttf",
+        "/app-deployment/newsletter.b9b1670a841e9b09.png",
+        "/app-deployment/phone.058ac633628484fa.png",
+        "/app-deployment/progress.cfde3dbf9316612a.png",
+        "/app-deployment/tapes_bottom.978758da195e9560.png",
+        "/app-deployment/tapes_top.9f74d98372851c28.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
+    "/app-deployment/address.459784c1cbed5869.png": "cad300455cadd8b26b6bf70db6ac8dc0a07b699c",
     "/app-deployment/assets/css/Yanone Kaffeesatz.css": "de7c47b005441df0fbb4c0a6485078789fa916f2",
     "/app-deployment/assets/css/bootstrap.min.css": "3a7dfd4d71ae343e2fcffd32745f575f4f9126a0",
     "/app-deployment/assets/css/font-awesome.min.css": "bccf60ed7cf9c6feac1adb4c5fb9afd56e2a635b",
@@ -205,15 +216,24 @@
     "/app-deployment/assets/js/main.js": "3f6c9691b827042a5655623d725fa72c11dba057",
     "/app-deployment/assets/js/popper.min.js": "42e3ca1212d825150c0f57f97dea8d9c0b0ce2a1",
     "/app-deployment/assets/js/prototype.js": "314ddb0908d7354696fb11718a773aafcd1a2223",
+    "/app-deployment/bg-crimescene.a1bae9b38de8b86c.png": "cb48267e549118f27bbd84ca19a71e7b569c7461",
+    "/app-deployment/email.0291a4c897fafbc0.png": "9fd8175b3bdf9877068977477cbf48b9058ab926",
     "/app-deployment/favicon.png": "3f9cdb4cc6e69c87b61c6ec402980bc0667cb0cf",
+    "/app-deployment/footer.e14710bb215889f0.jpg": "1f1abdfec44c31c5a3b9a278f0a4e6b7e31f8571",
+    "/app-deployment/footer_stripes.7dae03830b5f554a.png": "34281fae2123040c493c508c59d70747a3d055b7",
     "/app-deployment/icomoon.32a0144183a652ee.ttf": "998d750b6a0b65945f5cdf98fe7012cf27cc4b4e",
-    "/app-deployment/index.html": "3f1265bc9e9681dbd7550a676ec5d78d60f61818",
-    "/app-deployment/main.3317d165e4caf7ad.js": "390286aac23f52d69b5e67aa8a4da23be58ed22d",
+    "/app-deployment/index.html": "65e538bc7fc001b5ba9125570a5365800a43f5f4",
+    "/app-deployment/main.cdcc649e77fe6947.js": "2d66dbda0041609bd3bf4ca5fdacc0aae92ab5a1",
     "/app-deployment/manifest.webmanifest": "830d2d41541eef120f3974179f138396922baa4f",
+    "/app-deployment/newsletter.b9b1670a841e9b09.png": "01f7122497d753a99adaf4293f208a8dd619bf98",
+    "/app-deployment/phone.058ac633628484fa.png": "d77ef139b324dfa9b7e1214fb1768280a1c54219",
     "/app-deployment/polyfills.6bf4b5f23e4281ac.js": "14b46fd259435d84b15d69cc3e3ca9caf4da1688",
+    "/app-deployment/progress.cfde3dbf9316612a.png": "b5f065f5bed79ed87012bac348096bfad3b56011",
     "/app-deployment/runtime.3d7c239c7db2d6c6.js": "647394b84af14656c2d0fcc117e527715cc58d9c",
     "/app-deployment/scripts.8bc137067ee28624.js": "dbdfbdec371b250d2867f68913ad77bd195eb5d6",
-    "/app-deployment/styles.c35b02686b3741ca.css": "c0df4490e693402e72f58ad7562774cea2618194"
+    "/app-deployment/styles.c35b02686b3741ca.css": "c0df4490e693402e72f58ad7562774cea2618194",
+    "/app-deployment/tapes_bottom.978758da195e9560.png": "fde74dccd3ae20b8d0e1cd2d0884142ac338eb96",
+    "/app-deployment/tapes_top.9f74d98372851c28.png": "3d2ea33d4ff0a8f2cbb57ba87a5d0a574af7b0d4"
   },
   "navigationUrls": [
     {
