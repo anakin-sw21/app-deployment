@@ -2,6 +2,10 @@
 --extra-index-url https://pypi.org/simple
 
 flask==3.0.3
+flask_jwt_extended==4.6.0
+flask_mail==0.10.0
+flask_cors==5.0.0
+flask_socketio==5.5.1
 pymongo==4.10.1
 dotenv==0.9.9
 pyjwt==2.9.0
