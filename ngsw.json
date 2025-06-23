@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1750662976375,
+  "timestamp": 1750683780840,
   "index": "/app-deployment/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/app-deployment/index.html",
-        "/app-deployment/main.920e6e473915742c.js",
+        "/app-deployment/main.751ee365957a0682.js",
         "/app-deployment/manifest.webmanifest",
         "/app-deployment/polyfills.6bf4b5f23e4281ac.js",
         "/app-deployment/runtime.3d7c239c7db2d6c6.js",
@@ -230,8 +230,8 @@
     "/app-deployment/footer.e14710bb215889f0.jpg": "1f1abdfec44c31c5a3b9a278f0a4e6b7e31f8571",
     "/app-deployment/footer_stripes.7dae03830b5f554a.png": "34281fae2123040c493c508c59d70747a3d055b7",
     "/app-deployment/icomoon.32a0144183a652ee.ttf": "998d750b6a0b65945f5cdf98fe7012cf27cc4b4e",
-    "/app-deployment/index.html": "553629269f4c28b252b14aed6ae67724d59089f8",
-    "/app-deployment/main.920e6e473915742c.js": "37e6cbf3fd69d46410a393cbd5df6119564259da",
+    "/app-deployment/index.html": "87b908cc2a72e98146487cb874aeb4224547f4aa",
+    "/app-deployment/main.751ee365957a0682.js": "2a41e68cd1f5377f5023e65f3c82226781c1afcc",
     "/app-deployment/manifest.webmanifest": "830d2d41541eef120f3974179f138396922baa4f",
     "/app-deployment/newsletter.b9b1670a841e9b09.png": "01f7122497d753a99adaf4293f208a8dd619bf98",
     "/app-deployment/phone.058ac633628484fa.png": "d77ef139b324dfa9b7e1214fb1768280a1c54219",
