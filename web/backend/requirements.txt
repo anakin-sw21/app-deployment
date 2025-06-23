@@ -11,3 +11,5 @@ ultralytics
 torch
 torchvision
 torchaudio
+gunicorn
+eventlet
