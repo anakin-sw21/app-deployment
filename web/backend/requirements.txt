@@ -1,11 +1,11 @@
 --index-url https://pypi.org/simple
+flask==3.0.3
+pymongo==4.10.1
+flask==3.0.3
+dotenv==0.9.9
+pymongo==4.10.1
+dotenv==0.9.9
 pyjwt==2.9.0
-flask==3.0.3
-pymongo==4.10.1
-flask==3.0.3
-dotenv==0.9.9
-pymongo==4.10.1
-dotenv==0.9.9
 opencv-python==4.11.0.86
 numpy==1.24.3
 ultralytics
